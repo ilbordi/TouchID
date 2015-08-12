@@ -14,6 +14,7 @@
 		134165C31B7BB306003778F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 134165C11B7BB306003778F0 /* LaunchScreen.storyboard */; };
 		134165CE1B7BB306003778F0 /* TouchIDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134165CD1B7BB306003778F0 /* TouchIDTests.swift */; };
 		134165D91B7BB306003778F0 /* TouchIDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134165D81B7BB306003778F0 /* TouchIDUITests.swift */; };
+		134165E71B7BB3C0003778F0 /* ViewControllerSecondo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134165E61B7BB3C0003778F0 /* ViewControllerSecondo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		134165D41B7BB306003778F0 /* TouchIDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchIDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		134165D81B7BB306003778F0 /* TouchIDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchIDUITests.swift; sourceTree = "<group>"; };
 		134165DA1B7BB306003778F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		134165E61B7BB3C0003778F0 /* ViewControllerSecondo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerSecondo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				134165B81B7BB306003778F0 /* AppDelegate.swift */,
 				134165BA1B7BB306003778F0 /* ViewController.swift */,
+				134165E61B7BB3C0003778F0 /* ViewControllerSecondo.swift */,
 				134165BC1B7BB306003778F0 /* Main.storyboard */,
 				134165BF1B7BB306003778F0 /* Assets.xcassets */,
 				134165C11B7BB306003778F0 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			files = (
 				134165BB1B7BB306003778F0 /* ViewController.swift in Sources */,
 				134165B91B7BB306003778F0 /* AppDelegate.swift in Sources */,
+				134165E71B7BB3C0003778F0 /* ViewControllerSecondo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
